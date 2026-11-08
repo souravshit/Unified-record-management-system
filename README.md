@@ -101,8 +101,8 @@ The main objective of this project is to demonstrate practical implementation of
 
 **YOUR NAME**
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: YOUR_LINKEDIN_PROFILE
+- GitHub: https://github.com/souravshit
+- LinkedIn: https://www.linkedin.com/in/souarv-shit-2b55ab217/
 
 ---
 
