@@ -74,7 +74,7 @@ Update your database connection details in your Java application:
 
 ```java
 String url = "jdbc:mysql://localhost:3306/unified_management";
-String username = "root";
+String username = "your_username";
 String password = "your_password";
 ```
 
